@@ -13,3 +13,15 @@ Foundation
 ==========
 [Documentation](http://foundation.zurb.com/docs/)
 [Projet](https://github.com/vproust/codeCamp/tree/master/newFoundationProject)
+
+Serveur local
+=============
+```bash
+# Lancer le projet bootstrap
+cd newBootstrapProject && python -m SimpleHTTPServer
+```
+
+```bash
+# Lancer le projet foundation
+cd newFoundationProject && python -m SimpleHTTPServer
+```
