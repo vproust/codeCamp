@@ -1,0 +1,103 @@
+debut;nomGuerre;lieu;nombreVictimes;moment
+1947;Guerre civile birmane; Birmanie;501000;cours
+1948;Conflit israélo-palestinien; Israël et  Palestine;22000;cours
+1960;Conflit de Papouasie occidentale; Papouasie occidentale (Indonésie);400000;cours
+1991;Guerre civile somalienne; Somalie;500000;cours
+2001;Guerre d'Afghanistan; Afghanistan;65000;cours
+2004;Guerre au nord-ouest du Pakistan; Pakistan;49000;cours
+2004;Guerre du Saada; Yémen;25000;cours
+2006;Lutte contre les narcotrafiquants au Mexique; Mexique;70000;cours
+2009;Rébellion islamiste au Nigeria; Nigeria;15000;cours
+2011;Guerre civile syrienne; Syrie;251509;cours
+2011;Conflit inter-soudanais; Soudan du Sud;6000;cours
+2011;Guerre civile irakienne; Irak;28241;cours
+2013;Troisième guerre civile centrafricaine; République centrafricaine;2000;cours
+2014;Guerre du Donbass; Ukraine;2249;cours
+1964;Conflit armé colombien; Colombie;100000;cours
+1964;Insurrection en Assam; Inde;10000;cours
+1969;Insurrection islamique aux Philippines; Philippines;160592;cours
+1967;Rébellion naxalite; Inde;6000;cours
+1978;Conflit Turquie-PKK; Turquie;40000;cours
+1989;Insurrection au Jammu-et-Cachemire; Inde;60000;cours
+1995;Insurrection dans l'Ogaden; Éthiopie;2000;cours
+1996;Guerre du Crabe; Corée du Nord et  Corée du Sud;100;cours
+2000;Conflit armé péruvien; Pérou;70000;cours
+2000;Conflit dans le Nord-Caucase; Russie;415;cours
+2002;Rébellion salafiste au Maghreb; Algérie,  Mali,  Mauritanie,  Maroc,;6000;cours
+2003;Guerre civile au Darfour; Soudan;300000;cours
+2004;Crise dans le delta du Niger; Nigeria;4500;cours
+2004;Guerres baloutches; Pakistan;1000;cours
+2004;Conflit dans le Sud de la Thaïlande; Thaïlande;3000;cours
+2011;Conflit au Liban; Liban;232;cours
+2012;Guerre du Mali; Mali;2000;cours
+1964;Conflit armé colombien; Colombie;100000;cours
+1964;Insurrection en Assam; Inde;10000;cours
+1969;Insurrection islamique aux Philippines; Philippines;160592;cours
+1967;Rébellion naxalite; Inde;6000;cours
+1978;Conflit Turquie-PKK; Turquie;40000;cours
+1989;Insurrection au Jammu-et-Cachemire; Inde;60000;cours
+1995;Insurrection dans l'Ogaden; Éthiopie;2000;cours
+1996;Guerre du Crabe; Corée du Nord et  Corée du Sud;100;cours
+2000;Conflit armé péruvien; Pérou;70000;cours
+2000;Conflit dans le Nord-Caucase; Russie;415;cours
+2002;Rébellion salafiste au Maghreb; Algérie,  Mali,  Mauritanie,  Maroc,;6000;cours
+2003;Guerre civile au Darfour; Soudan;300000;cours
+2004;Crise dans le delta du Niger; Nigeria;4500;cours
+2004;Guerres baloutches; Pakistan;1000;cours
+2004;Conflit dans le Sud de la Thaïlande; Thaïlande;3000;cours
+2011;Conflit au Liban; Liban;232;cours
+2012;Guerre du Mali; Mali;2000;cours
+1991;Guerre de Slovénie; Slovénie et  Yougoslavie;60;termine
+1991;Guerre de Croatie; Croatie;20000;termine
+1991;Guerres de Yougoslavie; Yougoslavie;100000;termine
+1991;Guerre civile algérienne; Algérie;150000;termine
+1991;Guerre civile de Sierra Leone; Sierra Leone;75000;termine
+1992;Guerre civile de Moldavie; Moldavie;3500;termine
+1992;Guerre de Bosnie-Herzégovine; Bosnie-Herzégovine;103000;termine
+1992;Guerre civile du Tadjikistan; Tadjikistan;100000;termine
+1994;Première guerre de Tchétchénie; Tchétchénie;21000;termine
+1994;Guerre civile / Génocide tsutsi; Rwanda;800000;termine
+1996;Guerre civile népalaise; Népal;12200;termine
+1998;Guerre Érythrée-Éthiopie; Érythrée et  Éthiopie;150000;termine
+1998;Deuxième guerre du Congo; République démocratique du Congo;3900000;termine
+1999;Conflit de Kargil; Inde et  Pakistan;4000;termine
+1999;Guerre du Kosovo; Yougoslavie;10000;termine
+1999;Seconde guerre de Tchétchénie; Tchétchénie;16000;termine
+2001;Conflit de 2001 en Macédoine; Macédoine;70;termine
+2002;Crise politico-militaire en Côte d'Ivoire; Côte d'Ivoire;1500;termine
+2003;Guerre d'Irak; Irak;155000;termine
+2004;Guerre du Kivu; République démocratique du Congo;300;termine
+2005;Guerre civile tchadienne; Tchad;1140;termine
+2006;Conflit israélo-libanais de 2006; Liban et  Israël;1600;termine
+2007;Rébellion touarègue; Mali et  Niger;300;termine
+2008;Deuxième Guerre d'Ossétie du Sud; Abkhazie et  Ossétie du Sud;1600;termine
+2008;Guerre de Gaza de 2008-2009; Palestine et  Israël;1340;termine
+2010;Crise ivoirienne de 2010-2011; Côte d'Ivoire;3000;termine
+2011;Guerre civile libyenne de 2011; Libye;12500;termine
+1991;Guerre de Slovénie; Slovénie et  Yougoslavie;60;termine
+1991;Guerre de Croatie; Croatie;20000;termine
+1991;Guerres de Yougoslavie; Yougoslavie;100000;termine
+1991;Guerre civile algérienne; Algérie;150000;termine
+1991;Guerre civile de Sierra Leone; Sierra Leone;75000;termine
+1992;Guerre civile de Moldavie; Moldavie;3500;termine
+1992;Guerre de Bosnie-Herzégovine; Bosnie-Herzégovine;103000;termine
+1992;Guerre civile du Tadjikistan; Tadjikistan;100000;termine
+1994;Première guerre de Tchétchénie; Tchétchénie;21000;termine
+1994;Guerre civile / Génocide tsutsi; Rwanda;800000;termine
+1996;Guerre civile népalaise; Népal;12200;termine
+1998;Guerre Érythrée-Éthiopie; Érythrée et  Éthiopie;150000;termine
+1998;Deuxième guerre du Congo; République démocratique du Congo;3900000;termine
+1999;Conflit de Kargil; Inde et  Pakistan;4000;termine
+1999;Guerre du Kosovo; Yougoslavie;10000;termine
+1999;Seconde guerre de Tchétchénie; Tchétchénie;16000;termine
+2001;Conflit de 2001 en Macédoine; Macédoine;70;termine
+2002;Crise politico-militaire en Côte d'Ivoire; Côte d'Ivoire;1500;termine
+2003;Guerre d'Irak; Irak;1486000;termine
+2004;Guerre du Kivu; République démocratique du Congo;300;termine
+2005;Guerre civile tchadienne; Tchad;1140;termine
+2006;Conflit israélo-libanais de 2006; Liban et  Israël;1600;termine
+2007;Rébellion touarègue; Mali et  Niger;300;termine
+2008;Deuxième Guerre d'Ossétie du Sud; Abkhazie et  Ossétie du Sud;1600;termine
+2008;Guerre de Gaza de 2008-2009; Palestine et  Israël;1340;termine
+2010;Crise ivoirienne de 2010-2011; Côte d'Ivoire;3000;termine
+2011;Guerre civile libyenne de 2011; Libye;12500;termine

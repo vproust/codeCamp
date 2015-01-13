@@ -1,0 +1,79 @@
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="fr" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Pimp my data - Sample project</title>
+<meta name="description" content="A sample project for Pimp My Data Code Camp"/>
+<meta name="author" content="Valentin Proust"/>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="bower_components/foundation/css/foundation.css"/>
+<script src="bower_components/modernizr/modernizr.js"></script>
+<style>
+.dot:hover {
+  cursor:pointer;
+}
+ 
+.axis path, .axis line {
+  fill: none;
+  stroke: #cccccc;
+  shape-rendering: crispEdges;
+}
+ 
+text {
+  font: 20px sans-serif;
+  fill:#cccccc;
+}
+ 
+.axis path{
+  display: none;
+}
+ 
+svg{
+  width:100%;
+  height: 100%;
+  overflow: hidden;
+}
+ 
+.label{
+  font-size: 17pt;
+}
+ 
+</style>
+</head>
+<body>
+ 
+<div class="row">
+<div class="large-12 columns">
+<h1>Guerres modernes</h1>
+<div id='chart'></div>
+<div id='filter1'></div>
+<div id='filter2'></div>
+<hr>
+</div>
+</div>
+<script>
+  document.write('<script src=js/vendor/' +
+  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  '.js><\/script>')
+  </script>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+  </script>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/foundation/js/foundation.min.js"></script>
+<script src="bower_components/d3/d3.min.js"></script>
+<script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="js/CreateFilter.js"></script>
+<script src="js/main.js"></script>
+<script>
+      $(document).foundation();
+
+      var doc = document.documentElement;
+      doc.setAttribute('data-useragent', navigator.userAgent);
+</script>
+</body>
+</html>

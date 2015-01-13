@@ -1,0 +1,59 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+		
+		
+		<!-- 1. Add these JavaScript inclusions in the head of your page -->
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
+		<script type="text/javascript" src="http://code.highcharts.com/modules/data.js"></script>
+		
+		
+		<!-- 2. Add the JavaScript to initialize the chart on document ready -->
+		<script type="text/javascript">
+		$(document).ready(function() {
+			$.get('data.csv', function(csv) {
+			    $('#container').highcharts({
+			        chart: {
+			        	type: 'column',
+			        	options3d: {
+			                enabled: true,
+			                alpha: 15,
+			                beta: 15,
+			                depth: 50,
+			                viewDistance: 25
+		            	}
+			        },
+			        plotOptions: {
+			            column: {
+			                depth: 25
+			            }
+			        },
+			        data: {
+			            csv: csv
+			        },
+			        title: {
+						text: 'Nombres de litres consommés par an de 10 pays'
+			        },
+					yAxis: {
+						title: {
+							text: 'Litres/an/habitant'
+						}
+					}
+			    });
+			});
+		});
+		</script>
+		
+	</head>
+	<body>
+		
+		<!-- 3. Add the container -->
+		<div id="container" style="width: 800px; height: 400px; margin: 0 auto"></div>
+		
+				
+	</body>
+</html>
