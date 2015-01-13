@@ -25,3 +25,5 @@ cd newBootstrapProject && python -m SimpleHTTPServer
 # Lancer le projet foundation
 cd newFoundationProject && python -m SimpleHTTPServer
 ```
+
+La page est visible sur [http://localhost:8000](http://localhost:8000)
